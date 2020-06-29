@@ -5,9 +5,9 @@
 1：没有使用三层架构，使得代码很乱。<br>
 2：没有使用c#面向对象的特性，多了很多不必要重复的代码。<br>
 3：没用注意命名规范，导致很多变量名，函数名，窗体名很**。<br>
-4：因为用的是本地服务器（数据库），导致没办法在别的电脑上运行。<br>
-------------------------分割线----------------------------------
+4：因为用的是本地服务器（数据库），导致没办法在别的电脑上运行。
+
 # 各个窗体介绍<br>
-## （一） Form1<br>
-### 界面图示<br>
-![Image text](https://github.com/rmxob/aoligei/blob/master/picture/attack.jpg)<br>
+## （一） Form1
+### 界面图示
+![Image text](https://github.com/rmxob/aoligei/blob/master/picture/attack.jpg)
