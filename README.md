@@ -10,4 +10,4 @@
 # 各个窗体介绍<br>
 ## （一） Form1
 ### 界面图示
-![Image text](https://github.com/rmxob/aoligei/blob/master/picture/attack.jpg)
+![](https://github.com/rmxob/aoligei/raw/master/picture/bag.jpg)
