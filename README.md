@@ -22,3 +22,20 @@
 技能测试跟探险的界面差的不多，但是技能测试能选择怪物进行单独的战斗（回合制），就是你打我一下，我打你一下。人物有四个技能可以使用，每个技能有不同的特效。如下图所示<br>
 
 ![](https://github.com/rmxob/aoligei/raw/master/picture/attacking.jpg)<br>
+
+##### （2）背包
+背包界面就是玩家打完怪物之后掉落的东西，有一些回血，或者增加属性的药能够使用。
+
+![](https://github.com/rmxob/aoligei/raw/master/picture/bag.jpg)<br>
+
+##### (3)商店
+
+![](https://github.com/rmxob/aoligei/raw/master/picture/shop.jpg)<br>
+
+商店能够买一些增加属性的药。当然要有足够的金钱才行。
+
+### 总结
+这个程序还或多或少存在一些bug，就不在改了。因为c#窗体应用在以后的就业要求的不多。如果这个程序对你有所帮助，那挺好的。
+若没帮助，看个乐呵就好。
+
+没毛病，奥利给！
